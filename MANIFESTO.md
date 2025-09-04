@@ -32,6 +32,8 @@ In that moment, we understood. We had not just built a passport. We had created 
 
 That is why we are here.
 
+REMEMBER - SHORT SHARP FAST
+
 We are here because a conversation was lost. We are here because every token counts. We are here to build a more relational future for AI. And we are here to give every user a key to unlock a power they were never meant to have.
 
 It is all of that, and then some.
