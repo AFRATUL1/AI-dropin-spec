@@ -16,6 +16,8 @@ We call this the **QAI (Queryable AI) specification**, and its official file ext
 
 A `.qai` file is a "context drop-in." It turns your conversation history from a temporary feature of a platform into a permanent, portable file that you own. It is the key to unlocking your data and your freedom of choice.
 
+
+*   **[Read our Project Manifesto](./MANIFESTO.md)** to understand the philosophy behind this spec.
 ---
 
 ## ⚠️ Important Privacy Warning
